@@ -11,6 +11,8 @@ My projects and class work throught the full stack engineer course with Codecade
     <img  width=400  src="https://github.com/NaomiTesla/brainfuck/assets/110672478/ab19637f-2e14-48de-9d74-bcc397b32a60"  alt="CLI Example">
 </p>
 
+<br  /><br  />
+
 ## Syllabus
 
 * Web Development Foundations
